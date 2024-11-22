@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|d:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\lab 3 b tree database\\fox-n-hounds checkers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|solutionrelative:field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\hound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|solutionrelative:hound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|d:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\lab 3 b tree database\\fox-n-hounds checkers\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\fox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|solutionrelative:fox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\fox-n-hounds checkers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDE2A803-DC7D-4644-AFAE-46FF233E6A06}|Fox-n-Hounds checkers.csproj|solutionrelative:fox-n-hounds checkers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:05:55.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAvwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:37:56.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:21:36.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Field.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Field.cs",
+              "RelativeDocumentMoniker": "Field.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Field.cs",
+              "RelativeToolTip": "Field.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwDwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:07:09.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:06:24.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fox.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Fox.cs",
+              "RelativeDocumentMoniker": "Fox.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Fox.cs",
+              "RelativeToolTip": "Fox.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:22:07.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hound.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Hound.cs",
+              "RelativeDocumentMoniker": "Hound.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Hound.cs",
+              "RelativeToolTip": "Hound.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:21:43.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fox-n-Hounds checkers",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Fox-n-Hounds checkers.csproj",
+              "RelativeDocumentMoniker": "Fox-n-Hounds checkers.csproj",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Fox-n-Hounds checkers\\Fox-n-Hounds checkers.csproj",
+              "RelativeToolTip": "Fox-n-Hounds checkers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T12:06:13.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

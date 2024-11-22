@@ -1,0 +1,16 @@
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\Fox_n_Hounds_checkers.Form1.resources
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\Fox-n-Hounds checkers.csproj.GenerateResource.cache
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\Fox-n-Hounds checkers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\Fox-n-Hounds checkers.AssemblyInfoInputs.cache
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\Fox-n-Hounds checkers.AssemblyInfo.cs
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\Fox-n-Hounds checkers.csproj.CoreCompileInputs.cache
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\bin\Debug\net8.0-windows\Fox-n-Hounds checkers.exe
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\bin\Debug\net8.0-windows\Fox-n-Hounds checkers.deps.json
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\bin\Debug\net8.0-windows\Fox-n-Hounds checkers.runtimeconfig.json
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\bin\Debug\net8.0-windows\Fox-n-Hounds checkers.dll
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\bin\Debug\net8.0-windows\Fox-n-Hounds checkers.pdb
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\Fox-n-Hounds checkers.dll
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\refint\Fox-n-Hounds checkers.dll
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\Fox-n-Hounds checkers.pdb
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\Fox-n-Hounds checkers.genruntimeconfig.cache
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\ref\Fox-n-Hounds checkers.dll
