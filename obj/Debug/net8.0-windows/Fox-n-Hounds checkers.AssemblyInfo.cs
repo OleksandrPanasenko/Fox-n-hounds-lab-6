@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fox-n-Hounds checkers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdf3133652f9d00803575c76ecfd75224ceec4bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fox-n-Hounds checkers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fox-n-Hounds checkers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

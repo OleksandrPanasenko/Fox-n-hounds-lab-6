@@ -10,6 +10,22 @@ namespace Fox_n_Hounds_checkers
     {
         public PictureBox canvas;
         public Graphics g;
+        public void HoundsAITurn()
+        {
+            TreeMove Head = new TreeMove(Hounds, fox);
+            Head.Evaluate();
+            TreeMove bestTurn = Head.Children[0];
+            foreach(TreeMove child in Head.Children)
+            {
+                if (child.Value < bestTurn.Value)
+                {
+                    bestTurn = child;
+                }
+            }
+            Hounds = bestTurn.houndPositions;
+            DrawField();
+            FoxTurn = true;
+        }
         public Field(Graphics g)
         {
             FoxTurn = true;
@@ -67,6 +83,7 @@ namespace Fox_n_Hounds_checkers
             {
                 if (row == hound.Row && col == hound.Column) return false;
             }
+            if(fox.Row==row&&fox.Column==col) return false;
             return true;
         }
         
@@ -119,7 +136,12 @@ namespace Fox_n_Hounds_checkers
                         fox.Row=cell.Y; 
                         fox.Column=cell.X;
                         FoxTurn = false;
+                        Deselect();
                         return true;
+                    }
+                    else
+                    {
+                        Deselect();
                     }
                 }
                 else
@@ -131,9 +153,11 @@ namespace Fox_n_Hounds_checkers
                             hound.Row = cell.Y;
                             hound.Column=cell.X;
                             FoxTurn = true;
+                            Deselect();
                             return true;
                         }
                     }
+                    Deselect();
                 }
                 SelectClicked(e);
             }
@@ -176,13 +200,13 @@ namespace Fox_n_Hounds_checkers
         }
         public bool FoxLost()
         {
-            if(fox.CanMoveTo(fox.Row-1,fox.Column-1)|| fox.CanMoveTo(fox.Row + 1, fox.Column - 1)|| fox.CanMoveTo(fox.Row - 1, fox.Column + 1)|| fox.CanMoveTo(fox.Row + 1, fox.Column + 1))
+            if(fox.Contained())
             {
-                return false;
+                return true;
             }
             else
             {
-                return true;
+                return false;
             }
         }
 
@@ -207,7 +231,7 @@ namespace Fox_n_Hounds_checkers
                 Rectangle checker = new Rectangle(centre.X - CheckerRadius, centre.Y - CheckerRadius, CheckerRadius*2, CheckerRadius*2);
 
                 if (hound.Selected) CheckerColor = HoundSelectedColor;
-                else CheckerColor = HoundSelectedColor;
+                else CheckerColor = HoundColor;
                 g.FillEllipse(new SolidBrush(CheckerColor), checker);
             }
             Point centre_fox = BoxCentre(fox.Row, fox.Column);
@@ -248,11 +272,11 @@ namespace Fox_n_Hounds_checkers
                     {
                         if (IsEmpty(hound.Row + 1, hound.Column - 1))
                         {
-                            OptionDot(fox.Row + 1, fox.Column - 1, HintColor);
+                            OptionDot(hound.Row + 1, hound.Column - 1, HintColor);
                         }
                         if (IsEmpty(hound.Row + 1, hound.Column + 1))
                         {
-                            OptionDot(fox.Row + 1, fox.Column + 1, HintColor);
+                            OptionDot(hound.Row + 1, hound.Column + 1, HintColor);
                         }
                     }
                 }
@@ -277,7 +301,7 @@ namespace Fox_n_Hounds_checkers
         public Color WhiteColor = Color.White;
         public Color BlackColor = Color.Black;
         public Color HintColor = Color.Blue;
-        public Color HoundColor = Color.Gray;
+        public Color HoundColor = Color.LightGray;
         public Color HoundSelectedColor = Color.DarkGray;
         public Color FoxColor = Color.Red;
         public Color FoxSelectedColor = Color.DarkRed;

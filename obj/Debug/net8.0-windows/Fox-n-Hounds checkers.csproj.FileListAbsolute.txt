@@ -14,3 +14,4 @@ D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8
 D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\Fox-n-Hounds checkers.pdb
 D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\Fox-n-Hounds checkers.genruntimeconfig.cache
 D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\ref\Fox-n-Hounds checkers.dll
+D:\Алгоритми\Lab 3 B tree database\Fox-n-Hounds checkers\obj\Debug\net8.0-windows\Fox-n-Hounds checkers.sourcelink.json

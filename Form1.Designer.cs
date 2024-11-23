@@ -31,8 +31,9 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             pictureBox1 = new PictureBox();
             button1 = new Button();
-            comboBox1 = new ComboBox();
             label1 = new Label();
+            checkBox1 = new CheckBox();
+            label2 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -55,31 +56,43 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
-            // comboBox1
-            // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Player", "Auto" });
-            comboBox1.Location = new Point(30, 37);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(130, 28);
-            comboBox1.TabIndex = 2;
-            // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(33, 14);
+            label1.Location = new Point(54, 108);
             label1.Name = "label1";
             label1.Size = new Size(90, 20);
             label1.TabIndex = 3;
             label1.Text = "Hound turns";
+            // 
+            // checkBox1
+            // 
+            checkBox1.AutoSize = true;
+            checkBox1.Location = new Point(54, 131);
+            checkBox1.Name = "checkBox1";
+            checkBox1.Size = new Size(100, 24);
+            checkBox1.TabIndex = 4;
+            checkBox1.Text = "Hounds AI";
+            checkBox1.UseVisualStyleBackColor = true;
+            checkBox1.CheckedChanged += checkBox1_CheckedChanged;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(70, 12);
+            label2.Name = "label2";
+            label2.Size = new Size(90, 20);
+            label2.TabIndex = 5;
+            label2.Text = "Hound turns";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(582, 450);
+            Controls.Add(label2);
+            Controls.Add(checkBox1);
             Controls.Add(label1);
-            Controls.Add(comboBox1);
             Controls.Add(button1);
             Controls.Add(pictureBox1);
             Icon = (Icon)resources.GetObject("$this.Icon");
@@ -94,7 +107,8 @@
 
         private PictureBox pictureBox1;
         private Button button1;
-        private ComboBox comboBox1;
         private Label label1;
+        private CheckBox checkBox1;
+        private Label label2;
     }
 }

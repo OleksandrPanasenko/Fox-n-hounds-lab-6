@@ -34,6 +34,17 @@ namespace Fox_n_Hounds_checkers
                 return false;
             }
         }
+        public Fox Copy()
+        {
+            Fox toReturn = new Fox(field);
+            toReturn.Row = Row;
+            toReturn.Column=Column;
+            return toReturn;
+        }
+        public bool Contained()
+        {
+            return !(this.CanMoveTo(this.Row - 1, this.Column - 1) || this.CanMoveTo(this.Row + 1, this.Column - 1) || this.CanMoveTo(this.Row - 1, this.Column + 1) || this.CanMoveTo(this.Row + 1, this.Column + 1));
+        }
         public bool CanMoveTo(int row, int col)
         {
             return field.IsEmpty(row, col) && Math.Abs(Row - row) == 1 && Math.Abs(Column - col) == 1;

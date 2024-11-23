@@ -29,9 +29,16 @@ namespace Fox_n_Hounds_checkers
                 this.Column = col;
             }
         }
+        public Hound Copy()
+        {
+            Hound toReturn = new Hound(field);
+            toReturn.Row = Row;
+            toReturn.Column = Column;
+            return toReturn;
+        }
         public bool CanMoveTo(int row, int col)
         {
-            return field.IsEmpty(row, col) && row - Row == 1 && Column - col == 1;
+            return field.IsEmpty(row, col) && row - Row == 1 && Math.Abs(Column - col) == 1;
         }
     }
 }
